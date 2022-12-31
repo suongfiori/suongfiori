@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-👋 I’m @suongfiori
-👀 I’m interested in web development.
+👋 I’m @suongfiori <br>
+👀 I’m interested in web development. <br>
 🌱 I’m currently learning CSS, Javascript, React
 
 <!--
