@@ -2,9 +2,9 @@
 
 👋 Get to know me, @suongfiori (she/her)<br>
 :woman: a driven developer who's constantly pushing the boundaries in web development. <br>
-👀 passionate for crafting clean, efficient, and user-friendly web apps<br>
-🌱 constantly explore new technologies as a lifelong learner and web development enthusiast! <br>
-👯 I’m eager to join forces with like-minded individuals on innovative SaaS solutions that make a real impact and challenge me to grow as a developer.
+👀 Passionate for crafting clean, efficient, and user-friendly web apps<br>
+🌱 Constantly explore new technologies as a lifelong learner and web development enthusiast! <br>
+👯 Eager to join forces with like-minded individuals on innovative SaaS solutions that make a real impact and challenge to grow as a developer.
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
