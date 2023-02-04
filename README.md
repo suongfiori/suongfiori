@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 I'm @suongfiori (she/her)<br>
+👋 I'm @suongfiori<br>
 :woman: a driven developer who's constantly pushing the boundaries in web development. <br>
 👀 Passionate for crafting clean, efficient, and user-friendly web apps<br>
 🌱 Constantly explore new technologies as a lifelong learner and web development enthusiast! <br>
