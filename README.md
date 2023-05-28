@@ -27,11 +27,16 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suongfiori&theme=radical)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=suongfiori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&hide_progress=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suongfiori)](https://github.com/suongfiori/github-readme-stats) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suongfiori&theme=dark&hide_border=false)<br/>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&hide_progress=true)](https://github.com/suongfiori/github-readme-stats) -->
+
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=suongfiori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=suongfiori&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
 
