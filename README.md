@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suongfiori&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suongfiori&theme=radical) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&hide_progress=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
