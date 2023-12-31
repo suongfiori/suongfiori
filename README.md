@@ -1,6 +1,10 @@
-<h3 align="center"> Hi there 👋 </h3>
-<p align="center">
-👋 I'm @suongfiori<br>
+
+<!-- <p align="center"> -->
+<h1 align="center">
+  <img https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;I%27m+Suong+Fiori;/>
+</h1>
+<!-- <h3 align="center"> Hi there 👋 </h3> -->
+<!-- 👋 I'm @suongfiori<br> -->
 :woman: a driven developer who's constantly pushing the boundaries in web development. <br>
 🌱 Constantly explore new technologies as a lifelong learner and web development enthusiast! <br>
 👯 Eager to join forces with like-minded individuals on innovative solutions that make a real impact and challenge to grow as a developer.
