@@ -1,8 +1,10 @@
 
 <!-- <p align="center"> -->
+
 <h1 align="center">
-  <img https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;I%27m+Suong+Fiori;/>
+  <img https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!;I%27m+Suong+Fiori;/>
 </h1>
+
 <!-- <h3 align="center"> Hi there 👋 </h3> -->
 <!-- 👋 I'm @suongfiori<br> -->
 :woman: a driven developer who's constantly pushing the boundaries in web development. <br>
