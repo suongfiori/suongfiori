@@ -1,8 +1,8 @@
-<img align="right" src="https://profile-counter.glitch.me/{suongfiori}/count.svg" />
+<img align="right" src="https://profile-counter.glitch.me/{suongfiori}/count.svg" /><br/>
 
-<h1 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;I%27m+Suong+Fiori;"/>
-</h1>
+</div>
 
 <div align="center">
   
@@ -24,38 +24,44 @@
      <img src="https://img.shields.io/badge/codepen-%23F24E1E.svg?style=for-the-badge&logo=codepen&logoColor=black" /> 
   </a>
 </div>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,firebase,aiscript,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=react,mui,sass,vscode,github,svg,figma,git,codepen" /><br>
-  <img src="https://skillicons.dev/icons?i=r,python" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,firebase,aiscript,html,css,r,python" /><br>
+    <img src="https://skillicons.dev/icons?i=mui,sass,vscode,github,svg,figma,git,codepen" /><br>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=suongfiori&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=suongfiori&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-
-  <!--<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />-->
   
-  <img width=325 align="center" src="https://github-readme-stats-suongfiori.vercel.app/api/top-langs/?username=suongfiori&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br/>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting!+👋;+Let's+Connect!;" />
+</div>
+<br>
+
+<div align="center">
+<a href='https://ko-fi.com/manage' target='_blank'><img height='40' style='border:1px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+
+<!--<h2 align="center">✍️ Random Dev Quote ✍️</h2>
 <br/>
 <div align="center"> 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+</div>-->
 
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{suongfiori}/count.svg)-->
