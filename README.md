@@ -1,7 +1,9 @@
 <img align="right" src="https://profile-counter.glitch.me/{suongfiori}/count.svg" /><br/>
 
+<img src="https://github.com/suongfiori/suongfiori/assets/85872726/ad591843-fba4-47b7-a39d-a62c31517351" alt="suong fiori banner" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=550&height=70&duration=3500&lines=Hi+there+!+👋;+I%27m+Suong+Fiori;+Thank+You+For+Stopping+By+!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=550&height=70&duration=3500&lines=Hi+there+!+👋;+I%27m+Suong+Fiori;+Thank+You+For+Stopping+By+!"/>
 </div>
 
 <div align="center">
