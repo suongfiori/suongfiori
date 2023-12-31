@@ -1,16 +1,14 @@
 <img align="right" src="https://profile-counter.glitch.me/{suongfiori}/count.svg" /><br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;I%27m+Suong+Fiori;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=550&height=70&duration=3500&lines=Hi+there+!+👋;+I%27m+Suong+Fiori;+Thank+You+For+Stopping+By+!"/>
 </div>
 
 <div align="center">
   
-  :woman: a driven developer who's constantly pushing the boundaries in web development. <br>
-
-  🌱 Constantly explore new technologies as a lifelong learner and web development enthusiast! <br>
+  <h3 font=Righteous&size=40>👩‍💻 Delivering UI/UX in web development with a strategic touch of AI integration. ✨ </h3><br>
   
-  👯 Eager to join forces with like-minded individuals on innovative solutions that make a real impact and challenge to grow as a developer. <br>
+  <!--🔭 I’m currently working on a marketplace -->
   
   📫 Reach me at:
   
@@ -24,7 +22,8 @@
      <img src="https://img.shields.io/badge/codepen-%23F24E1E.svg?style=for-the-badge&logo=codepen&logoColor=black" /> 
   </a>
 </div>
-<hr/>
+
+<br/><br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -33,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=mui,sass,vscode,github,svg,figma,git,codepen" /><br>
 </div>
 
-<hr/>
+<br/><br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -43,16 +42,11 @@
   
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<br/>
+
+<br/><br/><br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting!+👋;+Let's+Connect!;" />
-</div>
-<br>
-
-<div align="center">
-<!-- <a href='https://ko-fi.com/suongfiori' target='_blank'><img height='40' style='border:1px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
-  <a href="https://www.ko-fi.com/suongfiori" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href='https://ko-fi.com/suongfiori' target='_blank'><img height='40' style='border:1px;height:40px box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) ;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 
@@ -76,3 +70,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suongfiori&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suongfiori&hide_progress=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>-->
+
+<!--<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting!+👋;+Let's+Connect!;" />
+</div>-->
+
