@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <h3 font=Righteous&size=40>👩‍💻 Delivering UI/UX in web development with a strategic touch of AI integration. ✨ </h3><br>
+  <h3 font=Righteous&size=40>👩‍💻 I deliver UI/UX in web development with a strategic touch of AI integration. ✨ </h3><br>
   
   <!--🔭 I’m currently working on a marketplace -->
   
