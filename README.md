@@ -47,9 +47,9 @@
 
 <br/><br/><br/>
 
-<div align="center">
+<!--<div align="center">
 <a href='https://ko-fi.com/suongfiori' target='_blank'><img height='40' style='border:1px;height:40px box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) ;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+</div>-->
 
 
 <!--<h2 align="center">✍️ Random Dev Quote ✍️</h2>
